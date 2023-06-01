@@ -1,0 +1,16 @@
+body{
+    background-color: #74b49b;
+}
+div{
+    background-color: white;
+    border: 1px solid black   
+}
+fieldset{
+    margin-bottom: 12px;
+}
+legend{
+    background-color: #74b49b;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
